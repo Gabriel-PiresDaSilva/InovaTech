@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel P Silva\\source\\repos\\InovaTech-main2.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B37B54BA-94BD-4857-91E1-E277FB9B054F}|InovaTechSquadHotel.csproj|c:\\users\\gabriel p silva\\source\\repos\\inovatech-main2.1\\telas\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B37B54BA-94BD-4857-91E1-E277FB9B054F}|InovaTechSquadHotel.csproj|solutionrelative:telas\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37B54BA-94BD-4857-91E1-E277FB9B054F}|InovaTechSquadHotel.csproj|C:\\Users\\Gabriel P Silva\\source\\repos\\InovaTech-main2.1\\telas\\telacadastrofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B37B54BA-94BD-4857-91E1-E277FB9B054F}|InovaTechSquadHotel.csproj|solutionrelative:telas\\telacadastrofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37B54BA-94BD-4857-91E1-E277FB9B054F}|InovaTechSquadHotel.csproj|C:\\Users\\Gabriel P Silva\\source\\repos\\InovaTech-main2.1\\telas\\telacadastrarhospede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37B54BA-94BD-4857-91E1-E277FB9B054F}|InovaTechSquadHotel.csproj|solutionrelative:telas\\telacadastrarhospede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37B54BA-94BD-4857-91E1-E277FB9B054F}|InovaTechSquadHotel.csproj|c:\\users\\gabriel p silva\\source\\repos\\inovatech-main2.1\\telas\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B37B54BA-94BD-4857-91E1-E277FB9B054F}|InovaTechSquadHotel.csproj|solutionrelative:telas\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TelaPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gabriel P Silva\\source\\repos\\InovaTech-main2.1\\Telas\\TelaPrincipal.cs",
+              "RelativeDocumentMoniker": "Telas\\TelaPrincipal.cs",
+              "ToolTip": "C:\\Users\\Gabriel P Silva\\source\\repos\\InovaTech-main2.1\\Telas\\TelaPrincipal.cs [Design]",
+              "RelativeToolTip": "Telas\\TelaPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:40:46.104Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gabriel P Silva\\source\\repos\\InovaTech-main2.1\\Telas\\Login.cs",
+              "RelativeDocumentMoniker": "Telas\\Login.cs",
+              "ToolTip": "C:\\Users\\Gabriel P Silva\\source\\repos\\InovaTech-main2.1\\Telas\\Login.cs [Design]",
+              "RelativeToolTip": "Telas\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:51:40.614Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TelaCadastroFuncionario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gabriel P Silva\\source\\repos\\InovaTech-main2.1\\Telas\\TelaCadastroFuncionario.cs",
+              "RelativeDocumentMoniker": "Telas\\TelaCadastroFuncionario.cs",
+              "ToolTip": "C:\\Users\\Gabriel P Silva\\source\\repos\\InovaTech-main2.1\\Telas\\TelaCadastroFuncionario.cs [Design]",
+              "RelativeToolTip": "Telas\\TelaCadastroFuncionario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:46:15.553Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TelaCadastrarHospede.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel P Silva\\source\\repos\\InovaTech-main2.1\\Telas\\TelaCadastrarHospede.cs",
+              "RelativeDocumentMoniker": "Telas\\TelaCadastrarHospede.cs",
+              "ToolTip": "C:\\Users\\Gabriel P Silva\\source\\repos\\InovaTech-main2.1\\Telas\\TelaCadastrarHospede.cs",
+              "RelativeToolTip": "Telas\\TelaCadastrarHospede.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwEQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:45:50.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
